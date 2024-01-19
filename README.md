@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/luigui_carlos/)
 
-### Tecnologias que estou aprendendo
+### Tecnologias que estou aprendendo:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

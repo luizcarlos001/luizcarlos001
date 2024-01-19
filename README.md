@@ -17,4 +17,3 @@
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-Estudante de Ciência e Tecnologia e futuro engenheiro da computação.

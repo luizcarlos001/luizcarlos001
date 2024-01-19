@@ -1,11 +1,10 @@
 ### Olá mundo! Eu sou o Luiz Carlos 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/luizcarlosgomesjr/)<br/>
+)](https://www.linkedin.com/in/luizcarlosgomesjr/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/luigui_carlos/)<br/>
-
+)](https://www.instagram.com/luigui_carlos/)
 
 ### Tecnologias que estou aprendendo
 

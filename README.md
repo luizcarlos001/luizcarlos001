@@ -1,4 +1,6 @@
-### Olá mundo! Eu sou o Luiz Carlos 👋
+### Hello Everyone, meu nome é Luiz 👋
+#### Fale comigo:
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/luizcarlosgomesjr/)
@@ -26,3 +28,4 @@
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos001&size_weight=0.5&count_weight=0.5)

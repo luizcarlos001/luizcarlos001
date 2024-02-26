@@ -1,13 +1,13 @@
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+##  Hellooo Everyone 👋 
 
 </span>
 
 <br>
 
 <p align="center">
-  💌 Text me: ⤵️
+  💌 Encontre-me aqui: ⤵️
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>  
 
 
-## 💻 Technologies & Tools
+## 💻 Tecnologias que estou aprendendo:
 
 <p align="center">
   

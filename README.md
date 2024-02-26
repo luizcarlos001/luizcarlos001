@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizcarlosgomesjr/" /></a>
 </p>  
 
-
+<p align="center">
 ## 💻 Tecnologias que estou aprendendo:
+</p>
 
 <p align="center">
   
@@ -28,9 +29,9 @@
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img align="center" alt="Phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos001&size_weight=0.5&count_weight=0.5)
-
+</p>
 <!--
 **kakacordovil/kakacordovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

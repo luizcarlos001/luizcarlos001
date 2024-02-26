@@ -1,33 +1,96 @@
-### Hello Everyone, meu nome é Luiz 👋
-<br>
+<span align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/luizcarlosgomesjr/)
+##  Hellooo Helloo World! 👋 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/luigui_carlos/)
+</span>
 
-![4b8dab08-bc75-4937-910e-48f3b47f6b98](https://github.com/luizcarlos001/luizcarlos001/assets/146375880/53c63f20-a94b-412c-81b4-bf261078c788)
 
-### Tecnologias que estou aprendendo:
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
 </div>
 
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML" <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<p align="center">
+  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm working for the <strong></strong>banking industry</strong>
+<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
+Using the tech to make word better.
+
+</p>
+
+<p align="center">
+  I'm an <strong>Icamiaba</strong> in tech!<br />
+</p>
+
+<p align="center">
+  💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
+</p>
+
+<p align="center">
+  👩‍💻  Stack: <strong>Backend and Frontend.</strong>
+</p>
+
+<p align="center">
+  🚀  Continuous Learning: <strong>Java, C#, JavaScript, Blazor, Typescript, React, Webflux, Solidity, Outsystems, SASS, UI, UX.</strong>
+</p>
+
+<p align="center">
+  💌 Text me: ⤵️
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
+  
+  <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+</p>  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kakacordovil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+</p>
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  
+ <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-.NET-181717?style=flat-square&logo=dotnet" height="25"/>
+ <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+ <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/> 
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+ <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+ <img src="https://img.shields.io/badge/-Blazor-4B088A?style=flat-square&logo=blazor" height="25"/>
+
+
+</p>
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
+</p>
+
+
+<div align="center">
+<h2>Let's code!!!</h2>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
 </div>
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="CSS" <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</div>
 
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
-<br/>
+<!--
+**kakacordovil/kakacordovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos001&size_weight=0.5&count_weight=0.5)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

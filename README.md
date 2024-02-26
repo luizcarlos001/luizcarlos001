@@ -7,6 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/luigui_carlos/)
 
+![super mario world](https://github.com/luizcarlos001/luizcarlos001/assets/146375880/ba50dd01-dd48-4baf-b423-81ce6c373344)
+
 ### Tecnologias que estou aprendendo:
 
 <div style="display: inline_block"><br/>

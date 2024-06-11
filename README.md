@@ -31,11 +31,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"></a>
 </div>
 
-
-
-
-
-
 <br><br>
 
 <div align="center">  
@@ -47,6 +42,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizcarlos001&bg_color=000000&color=FF5733&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luizcarlos001&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=footer"/>

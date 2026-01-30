@@ -6,12 +6,12 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 **Computer Engineering student** at **UFMA**  
-🎓 **Postgraduate student in Microelectronics** at **UEMA**  
-📍 São Luís – MA, Brazil  
-💡 Focused on **data analysis, machine learning and decision-support systems**
+ **Computer Engineering student** at **UFMA**  
+**Postgraduate student in Microelectronics** at **UEMA**  
+ São Luís – MA, Brazil  
+ Focused on **data analysis, machine learning and decision-support systems**
 
 My main areas of interest include:
 - **Data analysis & analytics** using Python
@@ -23,7 +23,7 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 🧠 Professional & Academic Experience
+##  Professional & Academic Experience
 
 - **Technological Residency in Data**  
   Worked on a **predictive analytics project for Equatorial Energia**, focusing on demand predictability and decision support.
@@ -36,7 +36,7 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced data analysis and forecasting techniques  
 - Applied machine learning models  
 - Dashboard development with Streamlit and BI tools  
@@ -44,7 +44,7 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 🔗 Find me here
+##  Find me here
 <div align="center">
   <a href="https://www.linkedin.com/in/luizcarlosgomesjr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -56,7 +56,7 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 📊 Data, Analytics & Machine Learning
+##  Data, Analytics & Machine Learning
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -66,7 +66,7 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 📈 Business Intelligence & Visualization
+##  Business Intelligence & Visualization
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -75,7 +75,7 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 🧪 Test Automation (Basic Experience)
+##  Test Automation (Basic Experience)
 <div align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
@@ -83,7 +83,7 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 🎓 Programming Foundations
+##  Programming Foundations
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -95,16 +95,16 @@ I enjoy developing solutions that connect **data, software and real operational 
 
 ---
 
-## 📌 Featured Projects
-🔹 **Demand Predictability Project – Equatorial Energia**  
+##  Featured Projects
+ **Demand Predictability Project – Equatorial Energia**  
 Data analysis, forecasting models and decision-support dashboards
 
-🔹 **Data Analytics & Visualization Projects**  
+ **Data Analytics & Visualization Projects**  
 Exploratory analysis, interactive dashboards and insights generation
 
-🔹 **Smart Parking System (Embedded)**  
+ **Smart Parking System (Embedded)**  
 RP2040, sensors, MicroPython/C and system logic
 
-➡️ More projects available in my repositories 👇
+More projects available in my repositories 👇
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
